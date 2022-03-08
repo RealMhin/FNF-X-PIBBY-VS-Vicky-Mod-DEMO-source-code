@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="micky.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mouse down0000" x="0" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0001" x="0" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0002" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0003" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0004" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0005" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0006" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0007" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0008" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse down0009" x="1171" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0000" x="2342" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0001" x="2342" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0002" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0003" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0004" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0005" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0006" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0007" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0008" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse hey0009" x="3513" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse idle0000" x="4684" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse idle0001" x="5855" y="0" width="1171" height="944"/>
+	<SubTexture name="mouse idle0002" x="0" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0003" x="1171" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0004" x="2342" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0005" x="3513" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0006" x="4684" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0007" x="5855" y="944" width="1171" height="944"/>
+	<SubTexture name="mouse idle0008" x="0" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse idle0009" x="0" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0000" x="1171" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0001" x="1171" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0002" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0003" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0004" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0005" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0006" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0007" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0008" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse left0009" x="2342" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0000" x="3513" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0001" x="3513" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0002" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0003" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0004" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0005" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0006" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0007" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0008" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse right0009" x="4684" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse up0000" x="5855" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse up0001" x="5855" y="1888" width="1171" height="944"/>
+	<SubTexture name="mouse up0002" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0003" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0004" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0005" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0006" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0007" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0008" x="0" y="2832" width="1171" height="944"/>
+	<SubTexture name="mouse up0009" x="0" y="2832" width="1171" height="944"/>
+</TextureAtlas>

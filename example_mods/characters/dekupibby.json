@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "deku idle"
+		},
+		{
+			"offsets": [
+				40,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "deku up"
+		},
+		{
+			"offsets": [
+				40,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "deku right"
+		},
+		{
+			"offsets": [
+				40,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "deku left"
+		},
+		{
+			"offsets": [
+				40,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "deku down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/izukupibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dekupibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		115
+	],
+	"camera_position": [
+		-120,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

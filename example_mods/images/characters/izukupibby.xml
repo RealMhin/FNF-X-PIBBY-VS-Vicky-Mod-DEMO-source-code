@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="izukupibby.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deku down0000" x="0" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0001" x="0" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0002" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0003" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0004" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0005" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0006" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0007" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0008" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku down0009" x="618" y="0" width="618" height="767"/>
+	<SubTexture name="deku idle0000" x="1236" y="0" width="618" height="767"/>
+	<SubTexture name="deku idle0001" x="1854" y="0" width="618" height="767"/>
+	<SubTexture name="deku idle0002" x="2472" y="0" width="618" height="767"/>
+	<SubTexture name="deku idle0003" x="3090" y="0" width="618" height="767"/>
+	<SubTexture name="deku idle0004" x="0" y="767" width="618" height="767"/>
+	<SubTexture name="deku idle0005" x="618" y="767" width="618" height="767"/>
+	<SubTexture name="deku idle0006" x="1236" y="767" width="618" height="767"/>
+	<SubTexture name="deku idle0007" x="1854" y="767" width="618" height="767"/>
+	<SubTexture name="deku idle0008" x="2472" y="767" width="618" height="767"/>
+	<SubTexture name="deku idle0009" x="2472" y="767" width="618" height="767"/>
+	<SubTexture name="deku left0000" x="3090" y="767" width="618" height="767"/>
+	<SubTexture name="deku left0001" x="3090" y="767" width="618" height="767"/>
+	<SubTexture name="deku left0002" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0003" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0004" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0005" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0006" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0007" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0008" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku left0009" x="0" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0000" x="618" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0001" x="618" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0002" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0003" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0004" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0005" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0006" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0007" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0008" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku right0009" x="1236" y="1534" width="618" height="767"/>
+	<SubTexture name="deku up0000" x="1854" y="1534" width="618" height="767" frameX="0" frameY="-5" frameWidth="618" frameHeight="772"/>
+	<SubTexture name="deku up0001" x="1854" y="1534" width="618" height="767" frameX="0" frameY="-5" frameWidth="618" frameHeight="772"/>
+	<SubTexture name="deku up0002" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0003" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0004" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0005" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0006" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0007" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0008" x="2472" y="1534" width="618" height="772"/>
+	<SubTexture name="deku up0009" x="2472" y="1534" width="618" height="772"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vickyv5.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vicky down0000" x="0" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0001" x="616" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0002" x="1232" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0003" x="1848" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0004" x="2464" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0005" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0006" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0007" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0008" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0009" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0010" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0011" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0012" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky down0013" x="3080" y="0" width="616" height="505"/>
+	<SubTexture name="vicky idle0000" x="0" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0001" x="582" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0002" x="1164" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0003" x="1746" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0004" x="2328" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0005" x="2910" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0006" x="3492" y="505" width="582" height="545"/>
+	<SubTexture name="vicky idle0007" x="0" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0008" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0009" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0010" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0011" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0012" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky idle0013" x="582" y="1050" width="582" height="545"/>
+	<SubTexture name="vicky left0000" x="1164" y="1050" width="542" height="505"/>
+	<SubTexture name="vicky left0001" x="1706" y="1050" width="542" height="505"/>
+	<SubTexture name="vicky left0002" x="2248" y="1050" width="542" height="505"/>
+	<SubTexture name="vicky left0003" x="2790" y="1050" width="542" height="505"/>
+	<SubTexture name="vicky left0004" x="3332" y="1050" width="542" height="505"/>
+	<SubTexture name="vicky left0005" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0006" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0007" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0008" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0009" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0010" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0011" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0012" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky left0013" x="0" y="1595" width="542" height="505"/>
+	<SubTexture name="vicky right0000" x="542" y="1595" width="577" height="685"/>
+	<SubTexture name="vicky right0001" x="1119" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0002" x="1691" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0003" x="2263" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0004" x="2835" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0005" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0006" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0007" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0008" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0009" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0010" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0011" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0012" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky right0013" x="3407" y="1595" width="572" height="685" frameX="0" frameY="0" frameWidth="577" frameHeight="685"/>
+	<SubTexture name="vicky up0000" x="0" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0001" x="639" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0002" x="1278" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0003" x="1917" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0004" x="2556" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0005" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0006" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0007" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0008" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0009" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0010" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0011" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0012" x="3195" y="2280" width="639" height="577"/>
+	<SubTexture name="vicky up0013" x="3195" y="2280" width="639" height="577"/>
+</TextureAtlas>

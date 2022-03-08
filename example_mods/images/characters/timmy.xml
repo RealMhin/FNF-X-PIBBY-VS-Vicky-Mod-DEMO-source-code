@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timmy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="timmy down0000" x="0" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0001" x="0" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0002" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0003" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0004" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0005" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0006" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0007" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0008" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy down0009" x="842" y="0" width="842" height="733"/>
+	<SubTexture name="timmy idle0000" x="1684" y="0" width="842" height="733"/>
+	<SubTexture name="timmy idle0001" x="2526" y="0" width="842" height="733"/>
+	<SubTexture name="timmy idle0002" x="0" y="733" width="842" height="733"/>
+	<SubTexture name="timmy idle0003" x="842" y="733" width="842" height="733"/>
+	<SubTexture name="timmy idle0004" x="1684" y="733" width="842" height="733"/>
+	<SubTexture name="timmy idle0005" x="2526" y="733" width="842" height="733"/>
+	<SubTexture name="timmy idle0006" x="0" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy idle0007" x="842" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy idle0008" x="1684" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy idle0009" x="1684" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy left0000" x="2526" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy left0001" x="2526" y="1466" width="842" height="733"/>
+	<SubTexture name="timmy left0002" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0003" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0004" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0005" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0006" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0007" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0008" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy left0009" x="0" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0000" x="842" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0001" x="842" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0002" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0003" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0004" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0005" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0006" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0007" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0008" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy right0009" x="1684" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy up0000" x="2526" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy up0001" x="2526" y="2199" width="842" height="733"/>
+	<SubTexture name="timmy up0002" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0003" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0004" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0005" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0006" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0007" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0008" x="0" y="2932" width="842" height="733"/>
+	<SubTexture name="timmy up0009" x="0" y="2932" width="842" height="733"/>
+</TextureAtlas>

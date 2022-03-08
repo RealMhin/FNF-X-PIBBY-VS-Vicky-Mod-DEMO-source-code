@@ -1,0 +1,10 @@
+{
+	"idle_anim": "chainsaw",
+	"image": "menu_chainsaw",
+	"position": [
+		80,
+		-130
+	],
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}

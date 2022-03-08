@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "timmy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "timmy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "timmy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "timmy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "timmy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/timmy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "timmyv2",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		61,
+		100
+	],
+	"camera_position": [
+		-120,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

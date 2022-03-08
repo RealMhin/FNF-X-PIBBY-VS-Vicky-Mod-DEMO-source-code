@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "mouse idle"
+		},
+		{
+			"offsets": [
+				250,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mouse right"
+		},
+		{
+			"offsets": [
+				250,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mouse left"
+		},
+		{
+			"offsets": [
+				250,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mouse up"
+		},
+		{
+			"offsets": [
+				250,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mouse down"
+		},
+		{
+			"offsets": [
+				252,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "mouse hey"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/micky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "micky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-240,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

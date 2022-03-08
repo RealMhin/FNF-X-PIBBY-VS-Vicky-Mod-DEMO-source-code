@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vicky idle"
+		},
+		{
+			"offsets": [
+				70,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "vicky right"
+		},
+		{
+			"offsets": [
+				70,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "vicky left"
+		},
+		{
+			"offsets": [
+				70,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "vicky down"
+		},
+		{
+			"offsets": [
+				70,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "vicky up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vicky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vickyv2",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		77,
+		127
+	],
+	"camera_position": [
+		-120,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

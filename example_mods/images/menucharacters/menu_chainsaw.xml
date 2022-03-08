@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_chainsaw.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chainsaw0000" x="0" y="0" width="364" height="233" frameX="-13" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0001" x="0" y="0" width="364" height="233" frameX="-13" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0002" x="364" y="0" width="374" height="232" frameX="-3" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0003" x="364" y="0" width="374" height="232" frameX="-3" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0004" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0005" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0006" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0007" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0008" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+	<SubTexture name="chainsaw0009" x="0" y="233" width="377" height="232" frameX="0" frameY="0" frameWidth="377" frameHeight="233"/>
+</TextureAtlas>

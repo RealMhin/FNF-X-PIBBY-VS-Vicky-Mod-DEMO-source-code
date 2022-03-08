@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menuvicky",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"kaboom",
+			"vickyv3",
+			[
+				166,
+				93,
+				153
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}
